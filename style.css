@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* .container{
+    border: 1px solid black;
+    justify-content: center;
+} */
+
+table tr td img{
+    width: 250px;
+    height: 100px;
+    margin: 0 -95px 0 0px;
+}
+
+.bottom-table tr td {
+    border: 3px solid black;
+    font-size: 1.43rem;
+    line-height: 28px;
+}
+
+.t1{
+    padding-left: 10px;
+}
+.top-table tr td {
+    font-size: 1.43rem;
+    line-height: 28px;
+}
+
+.gap-col{
+    text-align: center;
+}
+
+.description{
+    text-align: center;
+    font-weight: bold;
+}
+
+.top-table{
+    margin-top: 5%;
+    border: none;
+    border-collapse: collapse;
+}
+
+.gaps{
+    padding-bottom: 550px;
+}
+
+.bottom-table .tax{
+    text-align: center;
+    font-weight: bolder;
+}
+
+
+table .fcol{
+    padding-right: 10px;
+}
+
+table .gst{
+    text-align:right;
+    padding-top: 100px;
+}
+
+table .tcol{
+    padding-right: 90px;
+    padding-bottom: 60px;
+}
+
+table .scol{
+    padding-left: 10px;
+}
+
+table .para{
+    padding-bottom: 30px;
+}
+
+table .workera{
+    font-weight: bold;
+}
+
+.right{
+    text-align: right;
+}
+
+.dark{
+    font-weight: bold;
+}
+
+span{
+    font-weight: bold;
+}
+
+.yellow{
+    color: orange;
+}
+
+footer{
+    text-align: center;
+    padding: 150px 0 50px 0;
+    font-weight: 600;
+}
+
+
+
